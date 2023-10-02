@@ -1,0 +1,1 @@
+poc proyect for github workflow to make it interactive
